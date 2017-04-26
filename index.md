@@ -11,8 +11,8 @@ After the office hours, I read domain related books because I strongly believe t
 
 If, you are anxious to know more  about me, below questions will surely help.
 - What [qualification](coursework) do you hold ?
-- List your top projects ?
-- Any achievements other than academics ?
+- List your top [projects](projects) ?
+- Any [achievements](achievements) other than academics ?
 
 Let's **connect** on ***prakhar.mishra@formcept.com*** to discuss opportunities that we may have for one another.
 
