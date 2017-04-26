@@ -8,7 +8,7 @@ My name is Prakhar Mishra. I am currently working as a **Data Engineer** in a Ba
 
 [Link to another page](another-page).
 
-Let's **connect** on *prakhar.mishra@formcept.com* to discuss opportunities that we can have for one another. :wink:
+Let's **connect** on *prakhar.mishra@formcept.com* to discuss opportunities that we can have for one another.:wink:
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
