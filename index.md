@@ -14,7 +14,7 @@ If, you are anxious to know more  about me, below questions will surely help.
 - List your top [projects](projects) ?
 - Any [achievements](achievements) other than academics ?
 
-Impressed ? 
+*Impressed ?*
 Let's **connect** on ***prakhar.mishra@formcept.com*** to discuss opportunities that we may have for one another.
 
 [![Github](https://s-media-cache-ak0.pinimg.com/originals/d6/40/57/d6405738890860b9844024299ee0c7a6.jpg){:height="40px" width="40px"}](http://www.github.com/prakhar21)
