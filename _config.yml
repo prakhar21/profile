@@ -1,12 +1,5 @@
-theme: jekyll-theme-minimal
-
-title: Prakhar Mishra
-
-name: Prakhar Mishra
-
-
-description: NLP | AI | Developer | Python
-
-show_downloads: ["true"]
-
-avatar: https://yt3.ggpht.com/-KXG_2aoDTps/AAAAAAAAAAI/AAAAAAAAAAA/Xq-uu8uusK0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
+title: Minimal theme
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: 
