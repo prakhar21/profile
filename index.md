@@ -4,11 +4,11 @@ layout: default
 
 Greetings visitor,
 
-My name is Prakhar Mishra. I am currently working as a **Data Engineer** in a Bangalore based Big Data start-up [FORMCEPT Technologies](http://www.formcept.com). My [typical day at work](day-at-work) goes in contributing to many tasks, majorly focusing on NLP, Text Analytics, Algorithms.
+My name is Prakhar Mishra. I am currently working as a **Data Engineer** in a Bangalore based Big Data start-up [FORMCEPT Technologies](http://www.formcept.com). My [typical day at work](day-at-work) goes in contributing to many tasks, majorly focusing on NLP, Text Analytics and Algorithms.
 
 [Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+Let's **connect** on *prakhar.mishra@formcept.com* to discuss opportunities that we can have for one another. :wink:
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 

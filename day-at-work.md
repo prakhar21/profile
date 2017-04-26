@@ -2,8 +2,10 @@
 layout: default
 ---
 
-## Welcome to another page
+## A day at Workplace
 
-_yay_
+It's 26 April, 2017 (*obviously some random day at FORMCEPT*)
+
+
 
 [back](./)
