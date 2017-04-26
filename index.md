@@ -9,6 +9,11 @@ My name is Prakhar Mishra. I am currently working as a **Data Engineer** in a Ba
 After the office hours, I read domain related books because I strongly believe that every book adds something to your existing belief.
 
 
+If, you are anxious to know more of me, below questions will surely try to help you out
+- What qualification do you hold ?
+- List your top projects ?
+- Any achievements other than academics ?
+
 Let's **connect** on ***prakhar.mishra@formcept.com*** to discuss opportunities that we may have for one another.
 
 [![Github](https://s-media-cache-ak0.pinimg.com/originals/d6/40/57/d6405738890860b9844024299ee0c7a6.jpg){:height="40px" width="40px"}](http://www.github.com/prakhar21)
