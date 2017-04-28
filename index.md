@@ -2,11 +2,12 @@
 layout: default
 ---
 
-Greetings visitor,
+Hello,
 
 My name is Prakhar Mishra. I am currently working as a **Data Engineer** in a Bangalore based Big Data start-up [FORMCEPT Technologies](http://www.formcept.com). My [typical day at work](day-at-work) goes in contributing to many tasks, majorly focusing on NLP, Text Analytics and Algorithms. 
 
 After the office hours, I read domain related books because I strongly believe that every book adds something to your existing belief.
+
 
 
 

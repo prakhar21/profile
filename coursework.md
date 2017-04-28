@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Coursework
+## Qualification
 
 ### [](#header-3)Formal Education
 
 I hold a Bachelor's degree in **Computer Science and Engineering** from the [LNM Institute of Information Technology](http://www.lnmiit.ac.in), Jaipur 
 
 Passing CGPA: **7.16/10.0**
+
+
+### [](#header-3)Mastery
+
+I love to code in Python _(development)_ and C++ _(competitive programming)_.
 
 
 ### [](#header-3)MOOCs
