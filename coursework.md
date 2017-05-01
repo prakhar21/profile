@@ -15,6 +15,19 @@ Passing CGPA: **7.16/10.0**
 
 I love to code in Python _(development)_ and C++ _(competitive programming)_.
 
+### [](#header-3)Publications
+
+1. [Song year prediction using Apache Spark](http://ieeexplore.ieee.org/document/7732275/)
+_In this paper, we aim to predict the year in which a particular song was officially released.
+Listeners often have particular affection for music from certain periods of their lives (such as
+high school), thus, the predicted release year of a song could be a useful basis for recommendation.
+Furthermore, a successful model of the variation in music characteristics, through the years, could
+throw light on the long-term evolution of popular music. In our study, different machine learning
+algorithms available in the Apache Spark Machine Learning library (MLlib) are applied on a sample of
+Million Song Dataset (MSD). Different learning algorithms were applied for training and prediction
+purpose. Also, the training times are compared for single and multinode cluster environment using
+Apache Spark._
+
 
 ### [](#header-3)MOOCs
 

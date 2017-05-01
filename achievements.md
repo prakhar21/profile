@@ -6,7 +6,7 @@ layout: default
 
 ### [](#header-3)HackerRank
 
-Ranked under 10 in Artificial Intelligence Track.
+Ranked **under 10** in Artificial Intelligence Track.
 
 
 ### [](#header-3)Jaipur Hackathon
