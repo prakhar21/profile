@@ -6,7 +6,7 @@ layout: default
 
 ### [](#header-3)HackerRank
 
-Ranked in top 10 in Artificial Intelligence Track.
+Ranked under 10 in Artificial Intelligence Track.
 
 
 ### [](#header-3)Jaipur Hackathon
@@ -15,6 +15,12 @@ This was the first ever hackathon to be organised in Jaipur and believe it or no
 
 Watch demo here: [Video](https://devpost.com/software/jarvis-dwaoi)
 
+
+### [](#header-3)Xerox Research Innovation Challenge - 2015
+
+We competed in that competition and were runner up of first round and secured fifth position in final round among 3000+ team, participating in the competition. 
+
+Competition Link here: [Website](http://xrci.xerox.com/xerox-research-innovation-challenge)
 
 ### [](#header-3)TATA First Dot
 
