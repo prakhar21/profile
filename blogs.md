@@ -4,8 +4,11 @@ layout: default
 
 ## Diary
 
-1. Random
-
+1. [Sudoku Solver | AI Agent](https://medium.com/@pmprakhargenius/sudoku-solver-ai-agent-700897b936c7)
+2. [Storage and Retrieval of Word Embeddings](http://formcept.com/blog/storage-and-retrieval-of-word-embeddings/)
+3. Opinion Matters – Why Modern Businesses Need Powerful Analytics To Track Customer Opinions - [click here](http://formcept.com/blog/opinion-matters-why-modern-businesses-need-powerful-analytics-to-track-customer-opinions/)
+4. [ Twitter Speaks on #GST- An Exclusive Analysis by FORMCEPT](http://formcept.com/blog/twitter-speaks-on-gst-an-exclusive-analysis-by-formcept/)
+5. [Leveraging Data To Retain Customers in Insurance Sector](http://formcept.com/blog/leveraging-data-to-retain-customers-in-insurance-sector/)
 
 
 [back](./)
