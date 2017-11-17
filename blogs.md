@@ -15,5 +15,5 @@ layout: default
 8. [Big Data case study of Google](https://www.linkedin.com/pulse/big-data-case-study-google-prakhar-mishra?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BwTFJupHtQ%2F6PQtzNxSptGg%3D%3D)
 9. [Spark Installation](https://www.linkedin.com/pulse/spark-installation-big-data-engine-prakhar-mishra?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BwTFJupHtQ%2F6PQtzNxSptGg%3D%3D)
 10. [Decision Tree Basics](https://www.linkedin.com/pulse/decision-tree-basics-machine-learning-prakhar-mishra?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BwTFJupHtQ%2F6PQtzNxSptGg%3D%3D)
-
+11. [Reinforcement Learning-1](https://medium.com/@prakhar.mishra/reinforcement-learning-part-1-9b20c4f24901)
 [back](./)
